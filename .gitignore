@@ -1,0 +1,17 @@
+# Content
+wp-content/index.php
+
+/wp-content/languages/*
+!/wp-content/languages/.gitkeep
+
+/wp-content/uploads/*
+!/wp-content/uploads/.gitkeep
+
+# Configuration
+wp-config.php
+
+# Log files
+*.log
+
+# htaccess
+/.htaccess
