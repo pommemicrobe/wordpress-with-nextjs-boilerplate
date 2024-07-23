@@ -1,11 +1,11 @@
 {
     "key": "group_66a0285e2b235",
-    "title": "Menus",
+    "title": "Theme settings",
     "fields": [
         {
             "key": "field_66a0285ee7c29",
-            "label": "Menu",
-            "name": "menu",
+            "label": "Menus",
+            "name": "menus",
             "aria-label": "",
             "type": "repeater",
             "instructions": "",
@@ -198,5 +198,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1721773401
+    "modified": 1721777537
 }
